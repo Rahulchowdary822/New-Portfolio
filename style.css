@@ -95,3 +95,19 @@ body::-webkit-scrollbar {
 /* 
  * About Me Page Styling
  */
+#aboutMe {
+    background-color: #f8f9fa;
+    overflow: hidden;
+}
+
+.skillsContainer{
+    gap: 12px;
+}
+
+.skillContainer {
+    background-color: #dfdfdf;
+    padding: 8px;
+    flex: 1;
+    border-radius: 3px;
+    text-align: center;
+}
